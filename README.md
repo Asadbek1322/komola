@@ -1,0 +1,2 @@
+# komola
+my first repository
